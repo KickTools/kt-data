@@ -1,10 +1,10 @@
 [
   {
     "imageUrl": "https://kt-public-images.s3.us-east-2.amazonaws.com/news/img-chatbot-404.jpg",
-    "title": "Chatbot Currently Down",
-    "date": "January 27, 2025",
-    "content": "We apologize for the inconvenience, but our KickTools Chatbot is currently unavailable. We are experiencing issues with authorization from Kick and are actively working on resolving this matter. Please note that this issue does not affect the functionality of our widgets; they continue to operate as expected. The chatbot is solely for providing responses within the chat environment."
-  },
+    "title": "Chatbot Service Restored",
+    "date": "January 28, 2025",
+    "content": "We are pleased to announce that our KickTools Chatbot is now fully operational again. The authorization issues with Kick have been resolved, and the chatbot is back to providing responses within the chat environment. Thank you for your patience during this time. Our widgets have continued to function normally throughout this period."
+},
   {
     "imageUrl": "https://kt-public-images.s3.us-east-2.amazonaws.com/news/img-dennako_designs.jpg",
     "title": "Creator Poster Templates",
@@ -26,5 +26,11 @@
     "title": "KickTools Says Hello",
     "date": "January 1, 2025",
     "content": "Thank you for signing up! The dashboard is new, and we're working on adding more exciting features. Stay tuned for updates!"
+  },
+    {
+    "imageUrl": "https://kt-public-images.s3.us-east-2.amazonaws.com/news/img-chatbot-404.jpg",
+    "title": "Chatbot Currently Down",
+    "date": "January 27, 2025",
+    "content": "We apologize for the inconvenience, but our KickTools Chatbot is currently unavailable. We are experiencing issues with authorization from Kick and are actively working on resolving this matter. Please note that this issue does not affect the functionality of our widgets; they continue to operate as expected. The chatbot is solely for providing responses within the chat environment."
   }
 ]
