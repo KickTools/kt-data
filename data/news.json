@@ -1,5 +1,11 @@
 [
   {
+  "imageUrl": "https://kt-public-images.s3.us-east-2.amazonaws.com/news/img-chatbot-404.jpg",  
+  "title": "Kick WebSocket Issues",
+  "date": "February 1, 2025",
+  "content": "Kick is transitioning its WebSocket events system, causing some channels to miss event data like subs and gifts. This is an issue on Kick's side; all KickTools widgets and servers are running normally. We are waiting for Kick to either release official API access or stabilize event broadcasting for all channels. Affected widgets include sub goals and hype trains. We will update you as soon as a fix is available."
+},
+  {
     "imageUrl": "https://kt-public-images.s3.us-east-2.amazonaws.com/news/img-chatbot-404.jpg",
     "title": "Chatbot Service Restored",
     "date": "January 28, 2025",
